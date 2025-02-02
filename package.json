@@ -1,9 +1,8 @@
 {
-  "name": "Metoushela rest api",
+  "name": "nash-api-1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@ai-sdk/openai": "^1.0.8",
+    "@google/generative-ai": "^0.5.0",
     "@xaviabot/fb-downloader": "^1.0.14",
     "ai": "^4.0.20",
     "axios": "^1.7.9",
@@ -32,8 +32,5 @@
     "nexo-aio-downloader": "^1.4.1",
     "ssl-express-www": "^3.2.1",
     "unlimited-ai": "^5.0.1"
-  },
-  "engines": {
-    "node": ">=14.0.0"
   }
 }
