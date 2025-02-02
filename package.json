@@ -12,7 +12,6 @@
   "description": "",
   "dependencies": {
     "@ai-sdk/openai": "^1.0.8",
-    "@google/generative-ai": "^0.5.0",
     "@xaviabot/fb-downloader": "^1.0.14",
     "ai": "^4.0.20",
     "axios": "^1.7.9",
